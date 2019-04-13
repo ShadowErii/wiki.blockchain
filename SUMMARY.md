@@ -17,7 +17,7 @@
 * [DAG/树图](dag/readme.md)
 * [跨链](cross-chain/readme.md)
 * [隐私/匿名](anonymous/readme.md)
-* [交易所](exchange/readme.md)
+* [Defi 去中心化金融](defi/readme.md)
 * [技术动向](future/readme.md)
 * [课程学习](course/courses.md)
 * [社区](community/readme.md)
