@@ -11,11 +11,14 @@ Dai (以太美元)，是建立在以太坊上的第一个去中心化稳定加�
 * [Maker 官网](https://makerdao.com/zh-CN/)
 * [抵押借Dai](https://cdp.makerdao.com/)
 
-## 0x
+## 0x 协议
 
-0x是去中心化交易的开源协议：链下撮合，链上交易， 0x允许任何用户或应用程序创建去中心化的交易应用。
+0x是去中心化Token交易的开源协议：链下撮合，链上交易， 0x允许任何用户或应用程序创建去中心化的交易应用。
 
 * [0x官网]（https://0x.org）
+* [0x 白皮书](https://github.com/0xProject/whitepaper/raw/master/0x_white_paper.pdf)
+* [0x 协议GitHub](https://github.com/0xProject)
+
 
 ## Hydro 
 

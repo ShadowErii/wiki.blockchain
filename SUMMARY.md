@@ -10,7 +10,7 @@
     * [开发文档](ethereum/dev.md)
     * [以太坊扩容技术1](ethereum/layer-2.md)
     * [以太坊扩容技术2](ethereum/layer-2-more.md)
-    * [以太坊术语](bitcoin/GLOSSARY.md)
+    * [以太坊术语](ethereum/GLOSSARY.md)
 * [柚子EOS](eos/readme.md)
 * [超级账本](hyperledger/readme.md)
 * [IPFS/FileCoin](ipfs/readme.md)
