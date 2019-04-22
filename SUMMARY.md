@@ -1,5 +1,5 @@
 # 区块链技术导航 Awesome Blockchain
-* [区块链技术导航](README.md)
+* [Awesome Blockchain](README.md)
 * [区块链入门/比特币](bitcoin/readme.md)
     * [区块链入门/比特币](bitcoin/readme.md)
     * [比特币闪电网络](bitcoin/lightning.md)   

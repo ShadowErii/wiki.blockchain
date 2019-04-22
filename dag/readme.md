@@ -9,9 +9,9 @@ DAG技术相比传统的链式结构，有先天的高并发优势，因此受�
 
 Conflux是使用树图结构（为什么称为树图，可以看[Conflux的自我进化：从DAG到树图](https://learnblockchain.cn/2019/04/12/conflux-tree-graph/)）的公有链，其团队成员大多拥有美国一流大学的留学背景和在硅谷、华尔街的多年工作经验，有着突出的科研能力与技术能力。姚期智院士是Conflux团队的首席科学家。
 
-* [Conflux官网](https://www.conflux-chain.org/)
+* [Conflux Github](https://github.com/conflux-chain)
 
-## IOTA
+* [Conflux官网](https://www.conflux-chain.org/)
 
 
 ## Byteball
@@ -19,6 +19,14 @@ Conflux是使用树图结构（为什么称为树图，可以看[Conflux的自�
 * [Byteball 白皮书](https://byteball.org/Byteball.pdf)
 
 ## XDAG
+
+可挖矿的DAG技术、每64秒出块。
+区块 = 交易 = 地址
+[XDAG 官网](https://xdag.io/)
+[XDAG 代码库](https://github.com/XDagger)
+
+
+## IOTA
 
 ## Nano
 

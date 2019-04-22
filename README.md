@@ -1,4 +1,4 @@
-## 区块链技术导航站  Awesome Blockchain
+## Awesome Blockchain
 
 区块链技术导航第一门户：收集整理最全面最优质的区块链(BlockChain)技术开发相关资源。
 
