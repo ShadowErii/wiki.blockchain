@@ -34,6 +34,7 @@ Awesome Ethereum 分为三部分：
 
 ### 合约安全
 
+* [成都链安“一键式”智能合约自动形式化验证工具](https://beosin.com)
 * [美链BEC合约漏洞技术分析](https://learnblockchain.cn/2018/04/25/bec-overflow/)
 
 ### 智能合约Solidity开发
