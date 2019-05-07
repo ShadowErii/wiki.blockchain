@@ -5,7 +5,7 @@
 * [深入浅出区块链](https://learnblockchain.cn)
 * [HiBlock区块链社区](https://hiblock.one/)
 * [以太坊爱好者社区](http://ethfans.org/)
-* [EOS 中文社区](https://eosfans.io)，EOS 中文社区
+* [EOS 中文社区](https://eosfans.io) - EOS 中文社区
 * [磨链社区](http://mochain.cc/)
 * [EOS Community Forum](https://eosforum.org) 英文
 * [EOS 论坛](https://www.eos.top)

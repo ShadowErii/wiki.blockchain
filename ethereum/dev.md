@@ -36,8 +36,9 @@ Awesome Ethereum 分为三部分：
 
 ## 智能合约开发
 
+* [【译】完全理解以太坊智能合约](https://learnblockchain.cn/2018/01/04/understanding-smart-contracts/) - 非常经典的介绍以太坊智能合约的文章
 * [Solidity文档](https://solidity.readthedocs.io/en/latest/)
-* [Solidity文档 - 中文](https://solidity-cn.readthedocs.io)
+* [Solidity文档 - 中文](https://learnblockchain.cn/docs/solidity/) - 唯一保持更新的中文 Solidity 文档
 * [Viper官方文档](https://viper.readthedocs.io/en/latest/index.html)
 * [Remix 文档](https://remix.readthedocs.io/en/latest/)
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) : 一套智能合约指导实现及开发库
@@ -48,7 +49,7 @@ Awesome Ethereum 分为三部分：
 
 * [web3.js - 1.0 文档](https://web3js.readthedocs.io/en/1.0/)
 * [web3.js - 0.20 文档](https://web3js.readthedocs.io/en/1.0/)
-* [Web3.js 接口文档](https://web3.learnblockchain.cn/) 接口中文手册
+* [Web3.js 0.20 文档 - 中文](https://learnblockchain.cn/docs/web3js-0.2x/) 接口中文手册
 * [web3j - GitHub](https://github.com/web3j/web3j) : Web3 Java 版本
 * [web3j - 文档](https://docs.web3j.io/)
 * [Web3Swift](https://github.com/BANKEX/web3swift) 一个Web3的swift SDK
@@ -59,7 +60,7 @@ Awesome Ethereum 分为三部分：
 * [Truffle 官网](https://truffleframework.com/)
 * [Truffle官方文档](http://truffleframework.com/docs/)
 * [Truffle](https://github.com/trufflesuite/truffle)
-* [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
+* [Truffle框架文档 - 中文](https://learnblockchain.cn/docs/truffle/) - 这份文档甚至比英文文档还好（PS 英文文档作者比较懒，很多内容没有更新）。
 * [Embark框架](https://github.com/embark-framework/embark)
 
 ## 第三方服务接口

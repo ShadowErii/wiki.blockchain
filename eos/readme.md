@@ -35,7 +35,7 @@ EOS 柚子开发资源超级汇总导航站，你想知道的EOS 柚子资源都
 * [Eosdocs](https://www.eosdocs.io)，EOS文档（英文）由 EOS New York 和 EOS Nation 维护
 
 ## 开发
-* [Beosin EOS-IDE](https://beosin.com/EOS-IDE/index.html) 成都链安产品的智能合约开发IDE
+* [Beosin EOS-IDE](https://beosin.com/EOS-IDE/index.html) 成都链安智能合约在线开发IDE
 * [Eosjs](https://github.com/EOSIO/eosjs) Javascript library
 * [Eos-go](https://github.com/eoscanada/eos-go) EOS.IO Go API library 
 * [SwiftyEOS](https://github.com/ProChain/SwiftyEOS)，Swift API library 

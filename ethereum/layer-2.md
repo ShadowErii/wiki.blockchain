@@ -16,6 +16,7 @@
 
 Plasma 以太坊的二层扩容框架
 
+* [learn-plasma](https://www.learnplasma.org/zh/learn/) 一个专门学习Plasma 的网站。
 * [Plasma 论文](http://plasma.io/plasma.pdf) 
 * [plasma 研究进展](https://ethresear.ch/c/plasma)
 * [深入理解Plasma（一）Plasma 框架](https://learnblockchain.cn/2018/10/20/plasma-framework/)
@@ -26,6 +27,7 @@ Plasma 以太坊的二层扩容框架
 
 ## [Loom Network](https://loomx.io/)
 
+
 * [项目官网](https://loomx.io/)
 * [Github](https://github.com/loomnetwork)
 * [Medium](https://medium.com/loom-network)
@@ -34,6 +36,10 @@ Plasma 以太坊的二层扩容框架
 * [加密僵尸, Ethereum’s most popular DApp coding tutorial](https://cryptozombies.io/)
 * [Delegatecall](https://delegatecall.com/)
 
+### 博客
+
+* [用 Loom SDK 搭建的以太坊侧链并部署智能合约](https://learnblockchain.cn/2019/04/29/use-loom/)
+* [用 Loom SDK 搭建的以太坊侧链上运行 DApp](用 Loom SDK 搭建的以太坊侧链上运行 DApp)
 
 ### 英文博客
 
@@ -150,6 +156,8 @@ Plasma 以太坊的二层扩容框架
 
 
 ## TrueBit
+
+* [解读 TrueBit （链下计算方案）白皮书](https://learnblockchain.cn/2018/03/24/truebit-whitepaper/)
 
 
 
