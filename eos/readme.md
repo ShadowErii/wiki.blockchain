@@ -36,7 +36,8 @@ EOS 柚子开发资源超级汇总导航站，你想知道的EOS 柚子资源都
 
 ## 开发
 * [Beosin EOS-IDE](https://beosin.com/EOS-IDE/index.html) 成都链安智能合约在线开发IDE
-* [Eosjs](https://github.com/EOSIO/eosjs) Javascript library
+* [Eosjs](https://github.com/EOSIO/eosjs) 或 [eosjs](https://eosio.github.io/eosjs/) Javascript 库文档
+* [Scatter API 开发示例](https://github.com/MediShares/scatter-eos-sample)
 * [Eos-go](https://github.com/eoscanada/eos-go) EOS.IO Go API library 
 * [SwiftyEOS](https://github.com/ProChain/SwiftyEOS)，Swift API library 
 * [EOSRPC](https://hex.pm/packages/eosrpc)，Elixir lang
@@ -44,6 +45,7 @@ EOS 柚子开发资源超级汇总导航站，你想知道的EOS 柚子资源都
 * [EOSDevHelper](https://github.com/OracleChain/EOSDevHelper)，EOSDevHelper 是一个跨平台 PC 端 EOS 钱包工具，由 OracleChain 团队研发
 * [Eosfactory](http://eosfactory.io)，基于 Python 的智能合约开发和测试框架（Win, Mac, Linux）
 * [EOS-Test-Cave](https://github.com/EOS-BP-Developers/EOS-Test-Cave), EOS 校验自动化测试工具
+* [BP节点链接1](https://validate.eosnation.io/mainnet/reports/endpoints.html) 或 [BP节点链接2](https://github.com/eoshackathon/eos_dapp_development_cn/blob/master/docs/bp_urls.md) 
 
 
 ## 区块浏览器
@@ -51,28 +53,35 @@ EOS 柚子开发资源超级汇总导航站，你想知道的EOS 柚子资源都
 * [Eospark](https://eospark.com)，BlockABC 团队出品
 * [Eostracker](http://eostracker.io)，较早开源的 EOS 区块链浏览器
 * [Bloks.io](https://bloks.io)，EOS CAFE 和 HKEOS 出品
-
+* [EOSX](https://www.eosx.io/)
 
 ## 工具
 
 * [Eos-sync](https://github.com/EOSpace/eos-sync)，同步 EOS 区块链数据到 MongoDB 数据库，by EOSpace
 
-## EOS 侧链
+## EOS 侧(分叉)链
 
 * [Fibos.io](https://fibos.io)，EOS 侧链，JavaScript 工具链
 * [BOS](https://boscore.io/) 为DApp而生
+* [Telos](https://telosfoundation.io/)
+* [EOS原力](https://www.eosforce.io/)
+* [ENU](https://enumivo.org/)
+* [MEET.ONE](https://meet.one/)
+* [worbli](https://worbli.io/)
 
 ## 博客
 
 * [EOS 区块链开发指南](http://blog.eosdata.io)
-* [BM 博客](https://medium.com/@bytemaster)，
+* [BM 博客](https://medium.com/@bytemaster)
 * [荆凯博客](https://www.jianshu.com/u/29f865fe3598)
-* [醒者呆博客](http://www.cnblogs.com/Evsward)，
-* [极简主义](http://www.8btc.com/author/48198)，
+* [醒者呆博客](http://www.cnblogs.com/Evsward)
+* [极简主义](http://www.8btc.com/author/48198)
+* [EOS开发文档教程](https://github.com/eoshackathon/eos_dapp_development_cn)
 
 
 ## 其他
 
+* [eos 开发者问答社区](https://eosio.stackexchange.com/)
 * [Awesome-EOS](https://github.com/EOS-Nation/Awesome-EOS) EOS Nation 收集资源汇总
 
 

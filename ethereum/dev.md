@@ -20,7 +20,6 @@ Awesome Ethereum 分为三部分：
 * [以太坊 Homestead 文档 - 官方](http://www.ethdocs.org/en/latest/)
 * [以太坊 Homestead 文档 - 中文](http://ethdoc.cn/)
 
-
 ## 以太坊客户端
 
 * [Geth 官网](https://geth.ethereum.org/)

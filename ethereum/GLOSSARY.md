@@ -9,7 +9,6 @@ Awesome Ethereum 分为三部分：
 区块链技术相关表包含了常见的区块链术语（概念）及其解释，及进一步阅读参考文章，以加深理解。
 方便大家阅读博客或网络上其他文章时做快速索引，比特币相关术语参考[比特币篇](http://wiki.learnblockchain.cn/bitcoin/GLOSSARY.html)
 
-
 #### 以太坊
 一个基于区块链的去中心化应用平台。阅读[以太坊开发入门指南](https://learnblockchain.cn/2017/11/20/whatiseth/)了解更多
 

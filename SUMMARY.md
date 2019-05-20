@@ -16,6 +16,7 @@
 * [IPFS/FileCoin](ipfs/readme.md)
 * [DAG/树图](dag/readme.md)
 * [跨链](cross-chain/readme.md)
+    * [波卡 Polkadot](cross-chain/polka.md) 
 * [隐私/匿名](anonymous/readme.md)
 * [Defi 去中心化金融](defi/readme.md)
 * [技术动向](future/readme.md)

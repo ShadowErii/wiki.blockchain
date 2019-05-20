@@ -87,6 +87,8 @@ Plasma 以太坊的二层扩容框架
 
 ## [Liquidity Network](https://liquidity.network/)
 
+Liquidity Network 正在构建一个无监管的支付中心。
+
 * [项目官网](https://liquidity.network/)
 * [GitHub](https://github.com/liquidity-network)
 * [Medium](https://medium.com/@liquidity.network)
@@ -116,6 +118,7 @@ Plasma 以太坊的二层扩容框架
 ## [雷电网络 Raiden Network](https://raiden.network/)
 
 雷电网络类似闪电网络以太版本，可以实现ERC20在链下转移。
+Raiden 是一个支付通道网络，支持多方向支付。
  
 * [项目官网](https://raiden.network/)
 * [Medium](https://medium.com/raiden-network)

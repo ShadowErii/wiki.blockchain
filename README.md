@@ -1,7 +1,6 @@
 ## Awesome Blockchain
 
-区块链技术导航第一门户：收集整理最全面最优质的区块链(BlockChain)技术开发相关资源。
-
+区块链技术导航：收集整理最全面最优质的区块链(BlockChain)技术开发相关资源。
 
 **导航内容**
 
@@ -31,6 +30,7 @@
 * [IPFS/FileCoin](ipfs/readme.md)
 * [DAG/树图](dag/readme.md)
 * [跨链](cross-chain/readme.md)
+    * [波卡 Polkadot](cross-chain/polka.md) 
 * [隐私/匿名技术](anonymous/readme.md)
 * [Defi 去中心化金融](defi/readme.md)
 * [技术动向](future/readme.md)

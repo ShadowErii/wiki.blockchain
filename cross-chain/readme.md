@@ -2,8 +2,7 @@
 
 
 ## polkadot
-
-- [polkadot](https://polkadot.io) polkadot跨链协议
+* [polkadot 篇](https://wiki.learnblockchain.cn/cross-chain/polka.html)
 
 ## Cosmos
 - [Cosmos](https://cosmos.network) Cosmos跨链协议

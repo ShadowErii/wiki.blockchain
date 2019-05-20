@@ -43,7 +43,8 @@
 
 
 ## [Finality Labs](https://www.finalitylabs.io/)
-
+ 致力于可扩展性研究和发展
+ 
 ## [L4](https://l4.ventures/)
 
 L4 Venture is building Web3(a decentralized web that removes middlemen and incentivizes users to contribute)
@@ -186,6 +187,8 @@ L4 Venture is building Web3(a decentralized web that removes middlemen and incen
 
 
 ## [Connext](https://connext.network/)
+
+以太坊上构建支付通道网络
 
 [项目官网](https://connext.network/)
 [Medium](https://medium.com/connext)
