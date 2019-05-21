@@ -31,6 +31,7 @@
 * [DAG/树图](dag/readme.md)
 * [跨链](cross-chain/readme.md)
     * [波卡 Polkadot](cross-chain/polka.md) 
+    * [Cosmos](cross-chain/cosmos.md) 
 * [隐私/匿名技术](anonymous/readme.md)
 * [Defi 去中心化金融](defi/readme.md)
 * [技术动向](future/readme.md)

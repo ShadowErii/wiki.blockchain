@@ -47,6 +47,10 @@ EOS 柚子开发资源超级汇总导航站，你想知道的EOS 柚子资源都
 * [EOS-Test-Cave](https://github.com/EOS-BP-Developers/EOS-Test-Cave), EOS 校验自动化测试工具
 * [BP节点链接1](https://validate.eosnation.io/mainnet/reports/endpoints.html) 或 [BP节点链接2](https://github.com/eoshackathon/eos_dapp_development_cn/blob/master/docs/bp_urls.md) 
 
+### 测试网
+
+* [Jungle 测试网](https://monitor.jungletestnet.io/#home) 
+* [麒麟测试网](https://www.cryptokylin.io) [浏览器](https://kylin.eosx.io)、[GitHub](https://github.com/cryptokylin/CryptoKylin-Testnet)
 
 ## 区块浏览器
 
@@ -77,7 +81,6 @@ EOS 柚子开发资源超级汇总导航站，你想知道的EOS 柚子资源都
 * [醒者呆博客](http://www.cnblogs.com/Evsward)
 * [极简主义](http://www.8btc.com/author/48198)
 * [EOS开发文档教程](https://github.com/eoshackathon/eos_dapp_development_cn)
-
 
 ## 其他
 
