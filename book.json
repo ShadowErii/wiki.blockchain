@@ -15,6 +15,7 @@
 
     "plugins": [
         "github",
+        "page-toc",
         "-donate",
         "splitter",
         "anchors",
@@ -54,7 +55,7 @@
             ]
         },
         "github": {
-            "url": "https://github.com/xilibi2003"
+            "url": "https://github.com/lbc-team/wiki.blockchain"
         },
         "donate": {
             "wechat": "https://learnblockchain.cn/images/qr_pay.jpg",
@@ -104,6 +105,11 @@
         "favicon": {
             "shortcut": "images/favicon.ico",
             "bookmark": "images/favicon.ico"
-        }
+        },
+        "page-toc": {
+            "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
+            "position": "before-first",
+            "showByDefault": true
+          }
     }
 }

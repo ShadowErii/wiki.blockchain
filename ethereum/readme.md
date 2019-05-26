@@ -82,7 +82,7 @@ Awesome Ethereum 分为三部分：
 - [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
 - [DAO](https://github.com/slockit/DAO) DAO提案
 
-### 基于以太坊的 去中心化交易所（Exchange ）
+### 去中心化交易所（DEX）
 
 - [0x](https://www.0xproject.com/otc) 0x交易所平台 [源码](https://github.com/0xProject/contracts)
 - [IDEX](https://idex.market) IDEX交易所，目前最活跃 [源码](https://github.com/AuroraDAO)

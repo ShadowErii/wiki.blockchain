@@ -66,7 +66,7 @@ EOS 柚子开发资源超级汇总导航站，你想知道的EOS 柚子资源都
 ## EOS 侧(分叉)链
 
 * [Fibos.io](https://fibos.io)，EOS 侧链，JavaScript 工具链
-* [BOS](https://boscore.io/) 为DApp而生
+* [BOS Core](https://boscore.io/) 为DApp而生
 * [Telos](https://telosfoundation.io/)
 * [EOS原力](https://www.eosforce.io/)
 * [ENU](https://enumivo.org/)

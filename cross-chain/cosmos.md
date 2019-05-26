@@ -14,6 +14,7 @@ Cosmos Hub 基于 Cosmos SDK 开发，用户也可以基于 Cosmos SDK  快速�
 - [Cosmos GitHub 地址](https://github.com/cosmos)
 - [Tendermint 官网](https://tendermint.com)
 - [Tendermint GitHub](https://github.com/tendermint/tendermint)
+- [什么是cosmos - 英文](https://cosmos.network/intro)
 
 ## 开发教程
 
@@ -22,7 +23,7 @@ Cosmos Hub 基于 Cosmos SDK 开发，用户也可以基于 Cosmos SDK  快速�
 - [Tendermint 文档 - 英文](https://tendermint.com/docs/)
 - [基于Cosmos 构建区块链及应用教程](https://github.com/cosmos/sdk-application-tutorial/blob/master/tutorial/cn/README.md) [教程目录](https://github.com/cosmos/sdk-application-tutorial/tree/master/tutorial/cn)
 - [Cosmos IBC 说明](https://github.com/cosmos/ibc/blob/master/CosmosIBCSpecification.pdf)
-
+- [chainkit](https://github.com/blocklayerhq/chainkit) 一个开发链的工具 
 
 ## Cosmos 生态项目
 
@@ -32,5 +33,6 @@ Cosmos Hub 基于 Cosmos SDK 开发，用户也可以基于 Cosmos SDK  快速�
 
   IRISnet（IRIS Hub ）是早期使用 Cosmos SDK 的项目（还贡献了部分代码），也是Cosmos在中国的技术和运营合作伙伴，IRIS Hub（类似Cosmos Hub）是 Cosmos网络中的第一个重要的区域性枢纽，Cosmos Hub 和 IRIS Hub 将直接连接。
 - [币安链](https://docs.binance.org/index.html) - 去中心化交易所
-- [Loom PlasmaChain](https://loomx.io) 以太坊Layer2 解决方案 
+- [Loom PlasmaChain](https://loomx.io) 以太坊Layer2 解决方案
+- [Terra](https://terra.money) 稳定币
 

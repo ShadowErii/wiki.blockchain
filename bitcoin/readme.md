@@ -1,6 +1,6 @@
 # 比特币  Awesome Bitcoin
 
-比特币相关资源汇总
+区块链入门 及 比特币相关资源汇总
 
 如何理解区块链、它将对社区、经济产生哪些影响，一切都从比特币开始。
 
@@ -46,30 +46,80 @@ Awesome Bitcoin 分为三部分：
 * [比特币区块结构 Merkle 树及简单支付验证分析](https://learnblockchain.cn/2017/11/10/bitcoin-script/)
 * [比特币脚本及交易分析 - 智能合约雏形](https://xiaozhuanlan.com/topic/1402935768)
 * [比特币源码解析](https://blog.csdn.net/pure_lady) 来自CSDN博主：Splay，目前已经写了20多篇，作者在持续更新
-* 
 
-## 开发 库/工具
-### 库
+## 比特币
+### BTC 区块链浏览器
+* **Blockchain.info**
+    [测试网络](https://testnet.blockchain.info)
+    [blockchain.info](https://blockchain.info)
+    [https://www.blockchain.com/explorer](https://www.blockchain.com/explorer)
+* **BlockCypher**
+    [https://live.blockcypher.com](https://live.blockcypher.com)
+* **BlockExplorer**
+    [https://blockexplorer.com](https://blockexplorer.com)
+* **BitPay Insight**
+    [https://insight.bitpay.com](https://insight.bitpay.com)
+    [https://test-insight.bitpay.com](https://test-insight.bitpay.com)
+* **Samourai**
+    [https://oxt.me](https://oxt.me)
+* [BTC 区块浏览器](https://btc.com/)
+
+### 开发库/工具
+
 * [BitCore](https://bitcore.io/) 与比特币网络交互 JavaScript 库
 * [BitcoinJ](https://bitcoinj.github.io/) 与比特币网络交互 Java库 [文档](https://bitcoinj.github.io/javadoc/0.14.7/)
+* [CoreBitcoin](https://github.com/oleganza/CoreBitcoin) - ObjC and Swift 工具箱
+* [BitcoinKit](https://github.com/yenom/BitcoinKit)  Swift 工具箱
+* [Bitcoin in Go](https://github.com/btcsuite) 比特币 GO 语言 相关实现和工具
 * [Blockchain](https://www.blockchain.com/zh-cn/api) API 服务
-
-### 工具
-
-* [比特币官网](https://bitcoin.org/zh_CN/)
-* [区块浏览器](https://btc.com/)
 * [Bitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer)Bitcoin Command Line Tool
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) 用于生成钱包、签名、发送交易的简单工具
+* [助记词过蓝色](https://iancoleman.io/bip39/)
+* [BTC 矿工费](https://bitcoinfees.earn.com/#fees)
+* BTC 测试币领取: [地址1](https://testnet.manu.backend.hamburg/faucet) [地址2](http://tpfaucet.appspot.com) [地址3](http://bitcoinfaucet.uo1.net/send.php)
+
+### BTC API 文档：
+
+
+* [比特币开发者文档](https://bitcoin.org/en/developer-reference)
+* [比特币开发者指南](https://bitcoin.org/en/developer-guide#block-chain-overview)
+* [比特币开发者指南- 中文翻译](https://github.com/BtcGroupCn/BitcoinDeveloperGuide_zhcn) 
+* [比特币改进方案](https://github.com/bitcoin/bips)
+* **BTC.com：**
+    [https://btc.com/api-doc](https://btc.com/api-doc)
+    [https://github.com/btccom](https://github.com/btccom)
+    [https://dev.btc.com/docs/php](https://dev.btc.com/docs/php)
+    PHP SDK：[https://github.com/blocktrail/blocktrail-sdk-php](https://github.com/blocktrail/blocktrail-sdk-php)
+    NodeJS SDK：[https://github.com/blocktrail/blocktrail-sdk-nodejs](https://github.com/blocktrail/blocktrail-sdk-nodejs)
+
+* **Original Bitcoin client/API calls list**
+    [https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list](https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list)
+
+* **Bitcoin Core APIs**
+    [https://bitcoin.org/en/developer-reference#bitcoin-core-apis](https://bitcoin.org/en/developer-reference#bitcoin-core-apis)
+
+* **BlockCypher**
+    [https://www.blockcypher.com/dev/](https://www.blockcypher.com/dev/)
+
+* **Bitcore**
+    [https://bitcore.io/api/](https://bitcore.io/api/)
+
+* **BITBOX**
+    [https://developer.bitcoin.com/bitbox/docs/getting-started](https://developer.bitcoin.com/bitbox/docs/getting-started)
 
 ### 钱包
 
+Github 上比特币开源钱包非常多，大家自己的搜索。
+
 * [Bitcoin Core](https://bitcoin.org/zh_CN/download)
+* [Bither](https://bither.net)  开源比特币钱包 - 比太
 * [Electrum](https://electrum.org/#home)
 * [比特派](https://bitpie.com/) 多链钱包
 * [Jaxx](https://jaxx.io/) 
-* [Bither](https://bither.net)  开源比特币钱包
-
-
+* [Samourai开源钱包Samourai](https://github.com/Samourai-Wallet/samourai-wallet-android)
+* [unstoppable-wallet-android ](https://github.com/horizontalsystems/unstoppable-wallet-android) - 开源安卓钱包 - 支持 BTC, ETH, BCH, DASH and ERC20 代币.
+* [unstoppable-wallet-ios](https://github.com/horizontalsystems/unstoppable-wallet-ios) - 开源IOS钱包 - 支持 BTC, ETH, BCH, DASH and ERC20 代币.
+* [arcbit-ios](https://github.com/arcbit/arcbit-ios)
 
 ## 实现简单区块链
 
