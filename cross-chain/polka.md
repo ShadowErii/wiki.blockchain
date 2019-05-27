@@ -71,9 +71,9 @@ Substrate 框架从 polkadot 的结构中抽取出来，使广大的开发者开
 * [Kagome](https://github.com/soramitsu/kagome) – C++ implementation of the Polkadot Runtime Environment being built by [Soramitsu](https://github.com/soramitsu). As part of the process they are developing a libp2p networking layer in C++.
 
 
-## [Polkado 及 Substrate 生态项目](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
+## [Polkadot 及 Substrate 生态项目](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
-* [ChainX](https://chainx.org/) 英特链 - 跨链资产互通
+* [ChainX](https://chainx.org/) - 跨链资产互通
 * [Dothereum](https://twitter.com/dothereum?lang=en)
 * [Edgeware](https://edgewa.re/) - 构建基于WASM的智能合约平台
 * [ChainLink](https://chain.link) 打造去中心化的 oracle 预言机网络(链) ([合作声明](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a))
