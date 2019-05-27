@@ -58,6 +58,7 @@ EOS 柚子开发资源超级汇总导航站，你想知道的EOS 柚子资源都
 * [Eostracker](http://eostracker.io)，较早开源的 EOS 区块链浏览器
 * [Bloks.io](https://bloks.io)，EOS CAFE 和 HKEOS 出品
 * [EOSX](https://www.eosx.io/)
+* [EOS Network Monitor](http://eosnetworkmonitor.io)
 
 ## 工具
 
@@ -81,6 +82,7 @@ EOS 柚子开发资源超级汇总导航站，你想知道的EOS 柚子资源都
 * [醒者呆博客](http://www.cnblogs.com/Evsward)
 * [极简主义](http://www.8btc.com/author/48198)
 * [EOS开发文档教程](https://github.com/eoshackathon/eos_dapp_development_cn)
+* [EOS智能合约开发系列](https://bihu.com/article/293974)
 
 ## 其他
 

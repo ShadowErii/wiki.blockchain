@@ -13,6 +13,7 @@
     * [以太坊术语](ethereum/GLOSSARY.md)
 * [柚子EOS](eos/readme.md)
 * [超级账本](hyperledger/readme.md)
+* [波场](tron/readme.md)
 * [IPFS/FileCoin](ipfs/readme.md)
 * [DAG/树图](dag/readme.md)
 * [跨链](cross-chain/readme.md)

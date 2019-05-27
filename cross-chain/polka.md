@@ -25,7 +25,7 @@
 * Polkasource – ITSM for blockchain infrastructure ([announcement 5](https://medium.com/polkadot-network/deploying-substrate-polkadot-nodes-with-polkasource-5835a7bea1b3))
 * [substraTEE](https://github.com/scs/substraTEE) - substrate runtime in Trusted Execution Environment
 * [Validators 5](http://validators.com/) — Open Source Scalable Cluster ([GitHub](https://github.com/Validators))
-* * [Polkadash](http://polkadash.io/) – 验证人监测
+* [Polkadash](http://polkadash.io/) – 验证人监测
 
 ## 开发
 
