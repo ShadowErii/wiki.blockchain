@@ -19,7 +19,7 @@ Cosmos Hub 基于 Cosmos SDK 开发，用户也可以基于 Cosmos SDK  快速�
 ## 开发教程
 
 - [Cosmos SDK 文档](https://cosmos.network/docs/)
-- [Cosmos SDK 中文文档](https://github.com/cosmos/cosmos-sdk/tree/master/docs/translations/cn)
+- [Cosmos SDK 中文文档](https://learnblockchain.cn/docs/cosmos/)
 - [Tendermint 文档 - 英文](https://tendermint.com/docs/)
 - [基于Cosmos 构建区块链及应用教程](https://github.com/cosmos/sdk-application-tutorial/blob/master/tutorial/cn/README.md) [教程目录](https://github.com/cosmos/sdk-application-tutorial/tree/master/tutorial/cn)
 - [Cosmos IBC 说明](https://github.com/cosmos/ibc/blob/master/CosmosIBCSpecification.pdf)
@@ -36,3 +36,6 @@ Cosmos Hub 基于 Cosmos SDK 开发，用户也可以基于 Cosmos SDK  快速�
 - [Loom PlasmaChain](https://loomx.io) 以太坊Layer2 解决方案
 - [Terra](https://terra.money) 稳定币
 
+对跨链感兴趣的同学可扫码，备注“跨链” ，加入跨链讨论群。
+
+![](https://img.learnblockchain.cn/qrcode/xiaona_qrcode2.jpeg)

@@ -95,3 +95,7 @@ Substrate 框架从 polkadot 的结构中抽取出来，使广大的开发者开
 * [Kilt Protocol ](https://kiltprotocol.com/)– 身份信托市场
 * [Akropolis](https://medium.com/akropolis/hello-world-ae16b654ba71) - 全球养老金基础设施
 * [Agora.Trade](https//agora.trade/) – 非托管交易的加密货币交换
+
+对跨链感兴趣的同学可扫码，备注“跨链” ，加入跨链讨论群。
+
+![](https://img.learnblockchain.cn/qrcode/xiaona_qrcode2.jpeg)
