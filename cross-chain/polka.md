@@ -42,6 +42,7 @@ Substrate 框架从 polkadot 的结构中抽取出来，使广大的开发者开
 * [Substrate 来了](https://www.parity.io/substrate-has-arrived/) - 英文博客介绍Substrate
 * [什么是 Substrate](https://medium.com/paritytech/what-is-substrate-29af4231d7e0) 
 * [在Substrate建立代币精选清单（TCR）](https://github.com/gautamdhameja/substrate-tcr)
+* [使用 Substrate 搭建一条能跨链的区块链](https://learnblockchain.cn/2019/05/30/create-chain-on-substrate/)
 * [在Substrate实现ERC721](https://github.com/parity-samples/substrate-erc721)
 * [使用Substrate Events监听器构建和维护基于Substrate运行时事件的链下存储](https://github.com/parity-samples/substrate-events-listener)
 * [如何在Polkadot测试网络部署Polkadot平行链](https://www.youtube.com/watch?v=pDqkzvA4C0E) - Youtube 视频
